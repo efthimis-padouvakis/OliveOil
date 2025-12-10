@@ -5,6 +5,6 @@ export default async function HomePage() {
   const user = await currentUser();
 
   if (user) {
-    return redirect("/timologia");
+    return redirect("/kataxhorisi");
   }
 }

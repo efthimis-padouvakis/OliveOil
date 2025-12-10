@@ -16,6 +16,7 @@ export default function Navbar() {
         <Link href="/epafes">Επαφές</Link>
         <Link href="/proionta">Προϊόντα</Link>
         <Link href="/timologia">Τιμολόγια</Link>
+        <Link href="/kataxhorisi">Καταχώρηση</Link>
       </div>
 
       {/* User menu */}

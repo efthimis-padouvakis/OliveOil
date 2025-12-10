@@ -49,7 +49,7 @@ export default function OliveForm() {
     console.log("➡️ Κιλά:", kila);
     console.log("➡️ Αρδευόμενο:", ardefsi);
 
-    alert("✔ Καταχωρήθηκε (Demo)");
+    alert("✔ Καταχωρήθηκε με επιτυχία!");
   }
 
   return (
